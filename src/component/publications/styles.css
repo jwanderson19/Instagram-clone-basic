@@ -1,0 +1,20 @@
+.publications-container{
+    max-width: 1000px;
+    margin: 5% auto;
+    display: flex;
+    justify-content: center;
+}
+.publication-img{
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    
+}
+
+.publication-img img{
+    width:272.67px;
+    height:272.67px;
+    padding: 1%;
+    cursor: pointer;
+}

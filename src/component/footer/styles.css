@@ -1,0 +1,17 @@
+footer{
+    display: flex;
+    padding: 50px;
+}
+
+footer ul{
+    display: flex;
+}
+
+footer ul li{
+    padding: 0px 15px;
+    font-size: 15px;
+}
+
+footer ul li a{
+    color:rgb(67, 134, 235);
+}

@@ -1,0 +1,39 @@
+
+section{
+    border-bottom: 1px solid  rgba(212, 214, 212, 0.795);
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 50px;
+}
+.perfil-container{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.perfil-info ul{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 80px;
+}
+.perfil-info ul li{
+    padding: 7px 5px;
+}
+.perfil-info #nick{
+    font-size: 22px; 
+}
+.perfil-info #btn-edit{
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    border: 1.5px solid rgba(221, 226, 231, 0.548);
+    padding: 8px;
+    border-radius: 3px;
+    font-size: 12px;
+}
+
+.perfil-container img{
+    width: 150px;
+    height: 150px;
+}
